@@ -7,3 +7,14 @@ Repositório para testar o gitflow no visual studio
 Criei a primeira hotfix, agora vou fazer alterações.
 
 Teste
+
+Alterei a master.
+Teste
+
+Criei a segunda hotfix, agora vou fazer alterações.
+
+Mais uma alteração.
+
+Terceira alteração.
+
+Quarta alteração.
