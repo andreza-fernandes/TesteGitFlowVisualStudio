@@ -20,3 +20,4 @@ Terceira alteração.
 Quarta alteração.
 
 Alteração para a hotfix.
+Mais uma alteração na hotfix.
